@@ -1,4 +1,5 @@
-const BASE_URL = "http://localhost:5000";
+//const BASE_URL = "http://localhost:5000";
+const BASE_URL = "http://13.200.171.128:5000";
 
 const API_ENDPOINTS = {
   // Channel Routes
