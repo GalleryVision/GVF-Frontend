@@ -165,6 +165,11 @@ const Login = () => {
               </button>
             </div>
           </form>
+          <div className="flex text-[13px] mt-28 font-normal ml-28">
+            <p>Developed by Cygnoz</p>
+            <img src="/public/cygnozLog.png" alt="" />
+            <p>_Release Version 1.0 _25th July 2024 </p>
+          </div>
         </div>
       </div>
 
